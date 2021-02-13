@@ -1,0 +1,23 @@
+* {
+	margin : 0; 
+	padding : 0;
+	box-sizing: border-box;
+	font-family: Georgia, serif;
+}
+.Border {
+	padding: 50px;
+	background: darkcyan;
+	color: white;
+	border-radius: 25px;
+}
+form .btn {
+	background-color: white;
+	color: darkcyan;
+	border: 2px solid darkcyan;
+}
+form .btn:hover{
+	background-color: darkcyan;
+	color: white;
+	border: solid 2px cyan;
+	
+}
